@@ -11,7 +11,7 @@ I'm passionate about building simple, meaningful tech solutions that make life e
 ### 🛍️ Kadi Thrift E-commerce ⭐ **Latest!**
 A full-featured e-commerce platform for buying and selling second-hand clothing with integrated payment processing.
 
-**Live Demo:** [kadi-thrift.vercel.app](https://kadi-thrift.vercel.app)
+**Live Demo:** [kadi-thrift.vercel.app](https://ecommerce-project-ochre-five.vercel.app/)
 
 **Tech Stack:** React + Vite, Django REST Framework, PostgreSQL, TailwindCSS, Cloudinary, Pesapal Payment Gateway
 
@@ -56,6 +56,7 @@ A full-stack personal finance application with user authentication, transaction 
 
 ### 🧮 Smart Calculator 🎙️
 A fully functional, modern calculator with voice commands, scientific functions, and unit conversions.
+**Live Demo:** [calculator-react-project-five.vercel.app](https://calculator-react-project-five.vercel.app/)
 
 **Tech Stack:** React, Framer Motion, CSS3, SpeechRecognition API, LocalStorage
 
@@ -74,6 +75,7 @@ A fully functional, modern calculator with voice commands, scientific functions,
 
 ### 📝 To-Do List App
 Interactive task manager with local storage persistence.
+**Live Demo:** [to-do-list-chi-nine-51.vercel.app](https://to-do-list-chi-nine-51.vercel.app/)
 
 **Tech Stack:** HTML, CSS, JavaScript
 
